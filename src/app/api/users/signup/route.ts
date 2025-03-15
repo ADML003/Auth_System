@@ -45,10 +45,3 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ error: error.message }, { status: 500 });
   }
 }
-//route is almost done
-//route is aligning with with the controller
-//route is aligned
-//gg
-//
-//ffrf
-//vfdvfv

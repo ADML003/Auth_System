@@ -7,4 +7,3 @@ export default function ProfilePage() {
     </div>
   );
 }
-//cdc
