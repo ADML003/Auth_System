@@ -84,5 +84,3 @@ export default function SignupPage() {
   );
 }
 
-//auth
-//authentication
