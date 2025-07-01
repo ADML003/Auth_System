@@ -56,5 +56,3 @@ export async function POST(request: NextRequest) {
 //.
 //c testing routes
 //test
-//login vs signup
-//
