@@ -53,5 +53,3 @@ export async function POST(request: NextRequest) {
 // testing
 //connection is set up directly in the route file
 //middleware will be done in the route file
-//.
-
